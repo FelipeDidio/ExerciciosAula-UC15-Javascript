@@ -17,9 +17,15 @@ Clique no botão "Excluir" ao lado de um item para removê-lo da lista e do loca
 ## Estrutura do código
 O código consiste em várias funções que trabalham juntas para gerenciar a lista de compras:
 
-### insereItemNaLista: Cria um elemento <li> para o novo item, adiciona um botão de exclusão e o insere na lista.
-### validaCampo: Verifica se o campo de entrada está vazio e exibe um alerta se estiver.
-### verificaItemExistente: Procura por itens existentes na lista e alerta o usuário se uma duplicata for encontrada.
-### addLocalStorage: Adiciona um novo item a uma lista armazenada no localStorage.
-### deletaItemLocalStorage: Remove um item específico da lista no localStorage.
-### mostraDadosLocalStorage: Carrega a lista salva no localStorage e a exibe na página na inicialização.
+### insereItemNaLista: 
+  Cria um elemento <li> para o novo item, adiciona um botão de exclusão e o insere na lista.
+### validaCampo: 
+  Verifica se o campo de entrada está vazio e exibe um alerta se estiver.
+### verificaItemExistente: 
+  Procura por itens existentes na lista e alerta o usuário se uma duplicata for encontrada.
+### addLocalStorage:
+  Adiciona um novo item a uma lista armazenada no localStorage.
+### deletaItemLocalStorage: 
+  Remove um item específico da lista no localStorage.
+### mostraDadosLocalStorage: 
+  Carrega a lista salva no localStorage e a exibe na página na inicialização.
