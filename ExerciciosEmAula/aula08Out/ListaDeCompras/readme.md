@@ -2,7 +2,7 @@
 
 Este projeto é uma lista de compras simples implementada usando JavaScript e a API localStorage para persistência de dados.
 
-# Funcionalidades
+## Funcionalidades
 Adiciona itens à lista de compras.
 Valida se o campo de entrada está vazio antes de adicionar.
 Verifica se o item já existe na lista para evitar duplicatas.
